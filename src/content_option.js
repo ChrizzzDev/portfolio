@@ -1,7 +1,7 @@
 const logotext = "CHRIZZZ";
 const meta = {
     title: "ChrizzzDev",
-    description: "Soy Hector Morett, desarrollador de Node.JS _ Desarrollador Full stack, actualmente estudiando.",
+    description: "Soy Chrizzz, desarrollador de Node.JS _ Desarrollador Full stack, actualmente estudiando.",
 };
 
 const introdata = {
@@ -12,7 +12,6 @@ const introdata = {
         third: "Sueña con el corazón.",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    // description: "Hola, soy Hector. Este es mi sitio personal ",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
@@ -127,11 +126,6 @@ const contactConfig = {
     YOUR_EMAIL: "chrizdev4@gmail.com",
     YOUR_FONE: "+52 341-170-5637",
     description: "Si deseas contactar conmigo, aquí tienes información.",
-    // creat an emailjs.com account 
-    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_r7mujmh",
-    YOUR_TEMPLATE_ID: "template_ykv0mcs",
-    YOUR_USER_ID: "543wbYQcuOB9MSVF5",
 };
 
 const socialprofils = {
